@@ -1,0 +1,3 @@
+lead_id,score,company_name,industry,region,website,qualification_status,status,collected_date
+1,1.0,Sample Tech Co US,Software,US,,Qualified,New,2025-04-28 21:55:03.627856
+2,1.0,Another Tech Co CA,Technology,CA,,Qualified,New,2025-04-28 21:55:03.630855

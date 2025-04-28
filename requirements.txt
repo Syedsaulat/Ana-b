@@ -1,0 +1,25 @@
+# Business AI Agent - Requirements
+# Python 3.10+ recommended
+
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+nltk>=3.7.0
+plotly>=5.10.0
+streamlit>=1.15.0
+beautifulsoup4>=4.11.0
+requests>=2.28.0
+
+# For Yahoo Finance API integration
+# Note: The data_api module is assumed to be pre-installed in the environment
+
+# For database management
+# SQLite is included in Python standard library
+
+# For PDF generation (optional)
+# reportlab>=3.6.0
+
+# For web scraping
+lxml>=4.9.0
